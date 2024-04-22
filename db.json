@@ -3,35 +3,34 @@
 	  {
     "id": 5928191,
     "category": "animal welffare",
-    "title": 'Cat Adoption Day',
-    "description": 'Find your new feline friend at this event.',
-    "location": 'Meow Town',
-    "date": 'January 28, 2022',
-    "time": '12:00',
+    "title": "Cat Adoption Day",
+    "description": "Find your new feline friend at this event.",
+    "location": "Meow Town",
+    "date": "January 28, 2022",
+    "time": "12:00",
     "petsAllowed": true,
-    "organizer": 'Kat Layee'
+    "organizer": "Kat Layee"
   },
   {
-    "i": 7281941,
-    "category": 'food',
-    "title": 'Community Gardening',
-    "description": 'Join us as we tend to the community edible plants.',
-    "location": 'Flora City',
-    "date": 'March 15, 2022',
-    "time": '10:00',
+    "id": 7281941,
+    "category": "food",
+    "title": "Community Gardening",
+    "description": "Join us as we tend to the community edible plants.",
+    "location": "Flora City",
+    "date": "March 15, 2022",
+    "time": "10:00",
     "petsAllowed": true,
-    "organizer": 'Fern Pollin'
+    "organizer": "Fern Pollin"
   },
   {
     "id": 8312765,
-    "category": 'animal welfare',
-    "title": 'Bunny Bonanza',
-    "description": 'Hop on over and meet adorable rabbits looking for loving homes.',
-    "location": 'Hopper Haven',
-    "date": 'April 10, 2022',
-    "time": '13:00',
+    "category": "animal welfare",
+    "title": "Bunny Bonanza",
+    "description": "Hop on over and meet adorable rabbits looking for loving homes.",
+    "location": "Hopper Haven",
+    "date": "April 10, 2022",
+    "time": "13:00",
     "petsAllowed": true,
-    "organizer": 'Warren Rescue Group'
+    "organizer": "Warren Rescue Group"
   }]
-	
 }
